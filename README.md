@@ -254,3 +254,7 @@ downloads. It does not run live scraping.
 
 Run locally:
 python -m streamlit run app.py
+
+## Published dashboard
+
+https://poojitha-multi-source-scraping.streamlit.app/
