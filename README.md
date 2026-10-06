@@ -245,3 +245,12 @@ dependencies installed from requirements.txt, pip check passed, all
 ChatGPT assisted with implementation, explanations, tests and documentation.
 See AI_USAGE.md for details. The candidate is responsible for reviewing
 and understanding the submitted solution.
+
+## Browser dashboard
+
+The optional Streamlit dashboard displays saved pipeline results,
+supports source filtering and text search, and provides CSV and JSON
+downloads. It does not run live scraping.
+
+Run locally:
+python -m streamlit run app.py

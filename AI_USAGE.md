@@ -85,3 +85,7 @@ A second virtual environment was created and dependencies were installed
 from requirements.txt. pip check reported no broken requirements, all
 38 tests passed, and the complete pipeline ran successfully. The resulting
 CSV contained 1,099 records, and its counts matched the summary report.
+
+ChatGPT assisted with the Streamlit dashboard and deployment guidance.
+Local checks confirmed the table, source filters, text search, no-match
+message, and CSV/JSON downloads worked.
