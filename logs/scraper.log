@@ -1,0 +1,124 @@
+2026-10-06 22:33:19,948 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/
+2026-10-06 22:33:21,634 INFO scrapers.books_scraper: Books page 1: collected 20 records
+2026-10-06 22:33:22,136 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 22:33:22,640 INFO scrapers.books_scraper: Books page 2: collected 20 records
+2026-10-06 22:33:23,142 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 22:33:23,674 INFO scrapers.books_scraper: Books page 3: collected 20 records
+2026-10-06 22:33:24,177 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 22:33:24,732 INFO scrapers.books_scraper: Books page 4: collected 20 records
+2026-10-06 22:33:25,236 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 22:33:25,769 INFO scrapers.books_scraper: Books page 5: collected 20 records
+2026-10-06 22:33:26,272 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 22:33:26,791 INFO scrapers.books_scraper: Books page 6: collected 20 records
+2026-10-06 22:33:27,293 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 22:33:27,818 INFO scrapers.books_scraper: Books page 7: collected 20 records
+2026-10-06 22:33:28,324 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 22:33:28,844 INFO scrapers.books_scraper: Books page 8: collected 20 records
+2026-10-06 22:33:29,347 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 22:33:29,849 INFO scrapers.books_scraper: Books page 9: collected 20 records
+2026-10-06 22:33:30,351 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 22:33:30,858 INFO scrapers.books_scraper: Books page 10: collected 20 records
+2026-10-06 22:33:31,360 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 22:33:31,620 INFO scrapers.books_scraper: Books page 11: collected 20 records
+2026-10-06 22:33:32,122 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 22:33:32,402 INFO scrapers.books_scraper: Books page 12: collected 20 records
+2026-10-06 22:33:32,906 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 22:33:33,195 INFO scrapers.books_scraper: Books page 13: collected 20 records
+2026-10-06 22:33:33,698 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 22:33:33,976 INFO scrapers.books_scraper: Books page 14: collected 20 records
+2026-10-06 22:33:34,478 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 22:33:34,759 INFO scrapers.books_scraper: Books page 15: collected 20 records
+2026-10-06 22:33:35,262 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 22:33:35,566 INFO scrapers.books_scraper: Books page 16: collected 20 records
+2026-10-06 22:33:36,070 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 22:33:36,350 INFO scrapers.books_scraper: Books page 17: collected 20 records
+2026-10-06 22:33:36,852 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 22:33:37,132 INFO scrapers.books_scraper: Books page 18: collected 20 records
+2026-10-06 22:33:37,636 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 22:33:37,912 INFO scrapers.books_scraper: Books page 19: collected 20 records
+2026-10-06 22:33:38,414 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 22:33:38,706 INFO scrapers.books_scraper: Books page 20: collected 20 records
+2026-10-06 22:33:39,210 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 22:33:39,488 INFO scrapers.books_scraper: Books page 21: collected 20 records
+2026-10-06 22:33:39,992 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 22:33:40,519 INFO scrapers.books_scraper: Books page 22: collected 20 records
+2026-10-06 22:33:41,024 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 22:33:41,356 INFO scrapers.books_scraper: Books page 23: collected 20 records
+2026-10-06 22:33:41,862 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 22:33:42,383 INFO scrapers.books_scraper: Books page 24: collected 20 records
+2026-10-06 22:33:42,887 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 22:33:43,438 INFO scrapers.books_scraper: Books page 25: collected 20 records
+2026-10-06 22:33:43,945 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 22:33:44,224 INFO scrapers.books_scraper: Books page 26: collected 20 records
+2026-10-06 22:33:44,727 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 22:33:45,274 INFO scrapers.books_scraper: Books page 27: collected 20 records
+2026-10-06 22:33:45,779 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 22:33:46,296 INFO scrapers.books_scraper: Books page 28: collected 20 records
+2026-10-06 22:33:46,798 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 22:33:47,080 INFO scrapers.books_scraper: Books page 29: collected 20 records
+2026-10-06 22:33:47,583 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 22:33:48,102 INFO scrapers.books_scraper: Books page 30: collected 20 records
+2026-10-06 22:33:48,604 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 22:33:49,126 INFO scrapers.books_scraper: Books page 31: collected 20 records
+2026-10-06 22:33:49,629 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 22:33:49,906 INFO scrapers.books_scraper: Books page 32: collected 20 records
+2026-10-06 22:33:50,409 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 22:33:50,686 INFO scrapers.books_scraper: Books page 33: collected 20 records
+2026-10-06 22:33:51,190 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 22:33:51,704 INFO scrapers.books_scraper: Books page 34: collected 20 records
+2026-10-06 22:33:52,207 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 22:33:52,482 INFO scrapers.books_scraper: Books page 35: collected 20 records
+2026-10-06 22:33:52,984 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 22:33:53,265 INFO scrapers.books_scraper: Books page 36: collected 20 records
+2026-10-06 22:33:53,767 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 22:33:54,294 INFO scrapers.books_scraper: Books page 37: collected 20 records
+2026-10-06 22:33:54,796 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 22:33:55,068 INFO scrapers.books_scraper: Books page 38: collected 20 records
+2026-10-06 22:33:55,571 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 22:33:55,860 INFO scrapers.books_scraper: Books page 39: collected 20 records
+2026-10-06 22:33:56,363 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 22:33:56,658 INFO scrapers.books_scraper: Books page 40: collected 20 records
+2026-10-06 22:33:57,161 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 22:33:57,453 INFO scrapers.books_scraper: Books page 41: collected 20 records
+2026-10-06 22:33:57,957 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 22:33:58,234 INFO scrapers.books_scraper: Books page 42: collected 20 records
+2026-10-06 22:33:58,737 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 22:33:59,024 INFO scrapers.books_scraper: Books page 43: collected 20 records
+2026-10-06 22:33:59,529 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 22:33:59,806 INFO scrapers.books_scraper: Books page 44: collected 20 records
+2026-10-06 22:34:00,309 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 22:34:00,588 INFO scrapers.books_scraper: Books page 45: collected 20 records
+2026-10-06 22:34:01,091 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 22:34:01,606 INFO scrapers.books_scraper: Books page 46: collected 20 records
+2026-10-06 22:34:02,108 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 22:34:02,396 INFO scrapers.books_scraper: Books page 47: collected 20 records
+2026-10-06 22:34:02,899 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 22:34:03,417 INFO scrapers.books_scraper: Books page 48: collected 20 records
+2026-10-06 22:34:03,920 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 22:34:04,223 INFO scrapers.books_scraper: Books page 49: collected 20 records
+2026-10-06 22:34:04,725 INFO scrapers.base_scraper: Fetching https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 22:34:05,241 INFO scrapers.books_scraper: Books page 50: collected 20 records
+2026-10-06 22:34:05,243 INFO __main__: Books to Scrape: collected 1000 records; completed=True
+2026-10-06 22:34:05,743 INFO scrapers.base_scraper: Fetching https://quotes.toscrape.com/
+2026-10-06 22:34:07,778 INFO scrapers.quotes_scraper: Quotes page 1: collected 10 records
+2026-10-06 22:34:08,280 INFO scrapers.base_scraper: Fetching https://quotes.toscrape.com/page/2/
+2026-10-06 22:34:08,778 INFO scrapers.quotes_scraper: Quotes page 2: collected 10 records
+2026-10-06 22:34:09,279 INFO scrapers.base_scraper: Fetching https://quotes.toscrape.com/page/3/
+2026-10-06 22:34:09,534 INFO scrapers.quotes_scraper: Quotes page 3: collected 10 records
+2026-10-06 22:34:10,035 INFO scrapers.base_scraper: Fetching https://quotes.toscrape.com/page/4/
+2026-10-06 22:34:10,298 INFO scrapers.quotes_scraper: Quotes page 4: collected 10 records
+2026-10-06 22:34:10,799 INFO scrapers.base_scraper: Fetching https://quotes.toscrape.com/page/5/
+2026-10-06 22:34:11,055 INFO scrapers.quotes_scraper: Quotes page 5: collected 10 records
+2026-10-06 22:34:11,557 INFO scrapers.base_scraper: Fetching https://quotes.toscrape.com/page/6/
+2026-10-06 22:34:11,812 INFO scrapers.quotes_scraper: Quotes page 6: collected 10 records
+2026-10-06 22:34:12,314 INFO scrapers.base_scraper: Fetching https://quotes.toscrape.com/page/7/
+2026-10-06 22:34:12,576 INFO scrapers.quotes_scraper: Quotes page 7: collected 10 records
+2026-10-06 22:34:13,077 INFO scrapers.base_scraper: Fetching https://quotes.toscrape.com/page/8/
+2026-10-06 22:34:13,342 INFO scrapers.quotes_scraper: Quotes page 8: collected 10 records
+2026-10-06 22:34:13,844 INFO scrapers.base_scraper: Fetching https://quotes.toscrape.com/page/9/
+2026-10-06 22:34:14,099 INFO scrapers.quotes_scraper: Quotes page 9: collected 10 records
+2026-10-06 22:34:14,601 INFO scrapers.base_scraper: Fetching https://quotes.toscrape.com/page/10/
+2026-10-06 22:34:14,860 INFO scrapers.quotes_scraper: Quotes page 10: collected 10 records
+2026-10-06 22:34:14,862 INFO __main__: Quotes to Scrape: collected 100 records; completed=True
+2026-10-06 22:34:14,933 INFO __main__: Duplicate removed: The Star-Touched Queen
+2026-10-06 22:34:14,952 INFO __main__: Run complete: collected=1100 rejected=0 duplicates=1 final=1099
